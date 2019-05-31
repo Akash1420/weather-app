@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+    "url": "git+https://github.com/Akash1420/weather-app"
   },
-  "author": "brandon morelli",
-  "license": "ISC",
+  "author": "Akash Tripathi",
+  
   "bugs": {
-    "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
+    "url": "https://github.com/Akash1420/weather-app/issues"
   },
-  "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+  "homepage": "https://github.com/Akash1420/weather-app#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
